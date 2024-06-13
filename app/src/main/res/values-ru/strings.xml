@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="options">Настройки</string>
+    <string name="play_previous">Играть предыдущую песню</string>
+    <string name="play_next">Играть следующую песню</string>
+    <string name="toggle_is_shuffling">включить/выключить случайный порядок воспроизведения</string>
+    <string name="unknown_artist">/неизвестный исполнитель/</string>
+    <string name="unknown_title">/без названия/</string>
+    <string name="toggle_is_playing">играть / поставить на паузу</string>
+    <string name="close">Закрыть приложение</string>
+    <string name="no_permission_given">Не получилось загрузить твои песни :(</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="delete_song_dialog_text">Эта песня будет удалена безвозвратно.</string>
+    <string name="delete_song_dialog_title">Удалить эту песню?</string>
+    <string name="delete_playlist_dialog_text">Этот плейлист будет удалён безвозвратно.</string>
+    <string name="delete_playlist_dialog_title">Удалить этот плейлист?</string>
+    <string name="save">Сохранить</string>
+    <string name="enter_playlist_name">Новый плейлист</string>
+    <string name="playlist_name_placeholder">Название</string>
+    <plurals name="numberOfSongsAvailable">
+        <item quantity="one">%d песня</item>
+        <item quantity="few">%d песни</item>
+        <item quantity="many">%d песен</item>
+        <item quantity="other">%d песен</item>
+    </plurals>
+    <string name="all_songs">Твои песни</string>
+    <string name="all_playlists">Твои плейлисты</string>
+    <string name="delete_song_from_playlist_dialog_title">Удалить эту песню из плейлиста?</string>
+    <string name="delete_song_from_playlist_dialog_text">Эта песня останется в памяти устройства, но исчезнет из плейлиста.</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MP3 Player</string>
+    <string name="options">Options</string>
+    <string name="play_previous">Play previous song</string>
+    <string name="play_next">Play next song</string>
+    <string name="toggle_is_shuffling">toggle is shuffling</string>
+    <string name="unknown_artist">/unknown artist/</string>
+    <string name="unknown_title">/no title/</string>
+    <string name="toggle_is_playing">toggle is playing</string>
+    <string name="close">close the app</string>
+    <string name="no_permission_given">Cannot access your songs :(</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_song_dialog_text">This song will be deleted permanently.</string>
+    <string name="delete_song_dialog_title">Delete this song?</string>
+    <string name="delete_playlist_dialog_text">This playlist will be deleted permanently.</string>
+    <string name="delete_playlist_dialog_title">Delete this playlist?</string>
+    <string name="save">Save</string>
+    <string name="enter_playlist_name">New Playlist</string>
+    <string name="playlist_name_placeholder">Name</string>
+    <string name="all_songs">Your songs</string>
+    <string name="all_playlists">Your playlists</string>
+    <string name="delete_song_from_playlist_dialog_title">Delete this song from playlist?</string>
+    <string name="delete_song_from_playlist_dialog_text">This song will still be in the device\'s memory, but will disappear from the playlist.</string>
+    <plurals name="numberOfSongsAvailable">
+        <item quantity="one">%d song</item>
+        <item quantity="other">%d songs</item>
+    </plurals>
+</resources>
